@@ -1,4 +1,4 @@
-package com.vertice.tensorflowdemo;
+package com.vertice.tensorflowdemo.core;
 
 import org.tensorflow.ConcreteFunction;
 import org.tensorflow.Signature;
