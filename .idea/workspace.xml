@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="065f2499-02d4-4b3f-9460-4123e320d360" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vertice/tensorflowdemo/HelloTensorFlow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/br/com/vertice/officemanagerapi/OfficemanagerApiApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/br/com/vertice/officemanagerapi/controller/CasesController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/br/com/vertice/officemanagerapi/controller/ClientsController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/br/com/vertice/officemanagerapi/controller/OfficesController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/br/com/vertice/officemanagerapi/core/cases/Cases.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/br/com/vertice/officemanagerapi/core/cases/CasesControllerInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/br/com/vertice/officemanagerapi/core/clients/Clients.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/br/com/vertice/officemanagerapi/core/clients/ClientsControllerInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/br/com/vertice/officemanagerapi/core/offices/Offices.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/br/com/vertice/officemanagerapi/core/offices/OfficesControllerInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/br/com/vertice/officemanagerapi/model/Case.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/br/com/vertice/officemanagerapi/model/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/br/com/vertice/officemanagerapi/model/Office.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/br/com/vertice/officemanagerapi/repository/CaseRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/br/com/vertice/officemanagerapi/repository/ClientRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/br/com/vertice/officemanagerapi/repository/OfficeRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/br/com/vertice/officemanagerapi/services/CasesServiceInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/br/com/vertice/officemanagerapi/services/ClientsServiceInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/br/com/vertice/officemanagerapi/services/OfficesServiceInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/br/com/vertice/officemanagerapi/view/CaseDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/br/com/vertice/officemanagerapi/view/ClientDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/br/com/vertice/officemanagerapi/view/ListCasesDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/br/com/vertice/officemanagerapi/view/ListClientsDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/br/com/vertice/officemanagerapi/view/ListOfficesDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/br/com/vertice/officemanagerapi/view/OfficeDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/br/com/vertice/officemanagerapi/OfficemanagerApiApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1o6I4UIvPxor386QEoaCGvGX57v" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TensorflowDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="tensorflow-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.vertice.tensorflowdemo.TensorflowDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="065f2499-02d4-4b3f-9460-4123e320d360" name="Default Changelist" comment="" />
+      <created>1612600426968</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612600426968</updated>
+      <workItem from="1612600432032" duration="1660000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
